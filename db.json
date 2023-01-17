@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "asas",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 20,
+      "comment": "This the the comment",
+      "date": "2023-01-11T22:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Banana",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": 654,
+      "comment": "Banana Comment",
+      "date": "2023-01-11T22:00:00.000Z",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
